@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { CircularProgressbar } from "react-circular-progressbar";
 
 import awardData from '../../data/awardsData';
 
